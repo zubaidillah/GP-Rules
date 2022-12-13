@@ -1,1 +1,1 @@
-# GP-Rules
+# Group Policy - Rules
